@@ -1,1 +1,1 @@
-Raw data and source code for figures presented in "Improved description of environment and vibronic effects with electrostatically embedded ML potentials" (TODO: URL)
+Raw data and source code for figures presented in "Improved description of environment and vibronic effects with electrostatically embedded ML potentials" (https://doi.org/10.26434/chemrxiv-2024-kvhzf)
